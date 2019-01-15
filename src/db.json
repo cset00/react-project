@@ -1,0 +1,24 @@
+{
+  "ratingQuestions": [
+    {
+      "id": "1",
+      "title": "Werewolf is cool",
+      "name": "blah"
+    },
+    {
+      "id": "2",
+      "title": "Bla bla bla",
+      "name": "actual-bla"
+    },
+    {
+      "title": "title",
+      "tag": "tag",
+      "id": "_nPTWmU"
+    },
+    {
+      "title": "poker is fun",
+      "tag": "poker",
+      "id": "EGizmH6"
+    }
+  ]
+}
